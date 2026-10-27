@@ -38,7 +38,3 @@ Numerical data include `x_star`, `error_series`, `error_norm`, and `residual_nor
 The implementation integrates the squared piecewise-linear error exactly over the shared window, rather than taking an unweighted mean over irregular time samples. The numerical vector error metric is normalized per component; application scalar error norms keep their stated units. No endpoint extrapolation is introduced.
 
 The numerical batch uses noise-free, constant, and time-varying conditions. TDOA uses constant and time-varying conditions. The vehicle pair uses its prescribed sinusoidal disturbance. Disturbance definitions and initial states are in the drivers.
-
-## Excluded historical outputs
-
-Older `tdoa_fig4_*.csv` exports, matched-ablation files not used in the current tables, revision reports, temporary plots, and legacy experiment scripts are excluded. They must not be mixed with this release's current independent-initialization TDOA results.
