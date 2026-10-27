@@ -26,7 +26,6 @@ MATLAB R2025b on Windows is the local validation environment. Other MATLAB versi
 - `matlab/results/`: four archived MAT files and six CSV tables.
 - `reference_figures/`: the 13 PDF panels used by the manuscript.
 - `DATA_DICTIONARY.md`: result structures, units, and manuscript mapping.
-- `CHANGES.md`: release-only packaging changes.
 - `MANIFEST.sha256`: file integrity hashes.
 - `VALIDATION.json`: locally executed validation result, when available.
 
