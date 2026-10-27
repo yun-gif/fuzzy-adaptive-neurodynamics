@@ -44,7 +44,7 @@ Each MATLAB plotting command exports individual panels. Panel labels and composi
 
 Repository: https://github.com/yun-gif/fuzzy-adaptive-neurodynamics
 
-Version: **v1.0.0**, dated October 27, 2026. Use the versioned release and its commit when citing these materials, rather than the moving default branch. See CITATION.cff for citation metadata.
+Scientific release: **v1.0.0**, dated October 27, 2026. The current branch omits the author-list citation file. Historical commits and release assets have not been rewritten; they may still contain identifying metadata. The source code and simulation data are unchanged.
 
 The release contains MATLAB source code, synthetic simulation data, CSV metrics, reference figures, and validation reports. A SHA-256 manifest is included. GitHub hosting and a version tag are not a DOI or an independent permanent archive. No DOI has been assigned.
 
