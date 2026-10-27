@@ -49,5 +49,3 @@ Version: **v1.0.0**, dated October 27, 2026. Use the versioned release and its c
 The release contains MATLAB source code, synthetic simulation data, CSV metrics, reference figures, and validation reports. A SHA-256 manifest is included. GitHub hosting and a version tag are not a DOI or an independent permanent archive.
 
 Public availability should not be interpreted as an open-source license grant.
-
-Generated working directories under `runs/`, local editor history, credentials, and the manuscript submission package are excluded from this repository.
