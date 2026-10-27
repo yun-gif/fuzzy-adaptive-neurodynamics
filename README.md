@@ -46,6 +46,6 @@ Repository: https://github.com/yun-gif/fuzzy-adaptive-neurodynamics
 
 Version: **v1.0.0**, dated October 27, 2026. Use the versioned release and its commit when citing these materials, rather than the moving default branch. See CITATION.cff for citation metadata.
 
-The release contains MATLAB source code, synthetic simulation data, CSV metrics, reference figures, and validation reports. A SHA-256 manifest is included. GitHub hosting and a version tag are not a DOI or an independent permanent archive.
+The release contains MATLAB source code, synthetic simulation data, CSV metrics, reference figures, and validation reports. A SHA-256 manifest is included.
 
 Public availability should not be interpreted as an open-source license grant.
