@@ -30,8 +30,6 @@ MATLAB R2025b on Windows is the local validation environment. Other MATLAB versi
 - `MANIFEST.sha256`: file integrity hashes.
 - `VALIDATION.json`: locally executed validation result, when available.
 
-The historical `tfs` prefixes are retained to preserve function names. They do not indicate a current submission to that journal.
-
 ## Reproduction scope
 
 `verify` recalculates steady-state metrics without integrating trajectories again. `figures` also redraws the panels. Only `rerun` performs new numerical integrations. The report records which path was executed; do not equate metric recalculation with full experiment reproduction.
