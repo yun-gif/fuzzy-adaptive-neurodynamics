@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "Please cite this versioned software and simulation-data release when using these materials."
+type: software
+title: "Takagi-Sugeno Fuzzy Adaptive Neurodynamics for Time-Varying Nonlinear Systems With Noise: Source Code and Simulation Data"
+authors:
+  - family-names: Song
+    given-names: Zhiyuan
+  - family-names: Xiao
+    given-names: Xiuchun
+    orcid: "https://orcid.org/0000-0002-3389-6689"
+  - family-names: Chen
+    given-names: Chuncheng
+  - family-names: Jiang
+    given-names: Chengze
+  - family-names: He
+    given-names: Huiting
+  - family-names: Pan
+    given-names: Yi
+    orcid: "https://orcid.org/0000-0002-2766-3096"
+version: 1.0.0
+date-released: '2026-10-27'
+repository-code: "https://github.com/yun-gif/fuzzy-adaptive-neurodynamics"
+url: "https://github.com/yun-gif/fuzzy-adaptive-neurodynamics/releases/tag/v1.0.0"
+keywords:
+  - fuzzy systems
+  - zeroing neurodynamics
+  - MATLAB
+  - simulation data

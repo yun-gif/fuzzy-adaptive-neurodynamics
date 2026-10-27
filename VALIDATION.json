@@ -1,0 +1,27 @@
+{
+  "mode": "rerun",
+  "matlab_version": "25.2.0.2998904 (R2025b)",
+  "platform": "PCWIN64",
+  "metric_files": [
+    "summary_metrics",
+    "mechanism_ablation_metrics",
+    "tdoa_metrics",
+    "vehicle_metrics"
+  ],
+  "max_absolute_difference": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "exact_numeric_match": [
+    true,
+    true,
+    true,
+    true
+  ],
+  "comparison_tolerance": "absolute 1e-11 plus relative 1e-9; exact match reported separately",
+  "unit_tests_passed": 10,
+  "full_experiments_rerun": true,
+  "figure_panels_regenerated": true
+}

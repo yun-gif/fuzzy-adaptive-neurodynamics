@@ -1,0 +1,15 @@
+{
+  "external_dependency_count": 0,
+  "required_products": [
+    "MATLAB"
+  ],
+  "matlab_version": "25.2.0.2998904 (R2025b)",
+  "platform": "PCWIN64",
+  "suspicious_text_fields": [],
+  "exact_archived_trajectory_match": [
+    1,
+    1,
+    1,
+    1
+  ]
+}
